@@ -26,6 +26,7 @@ DEBUG = config('DEBUG', default=False, cast=bool)
 ALLOWED_HOSTS = ['portfolio-j0er.onrender.com', '127.0.0.1', 'localhost']
 
 
+
 # Application definition
 
 INSTALLED_APPS = [
