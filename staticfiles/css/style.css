@@ -1,0 +1,20 @@
+h1{
+    color: #4aeaea;
+    font-size: 100px;
+}
+/* حجم صورة الصفحة الرئيسية */
+.profile-img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%; /* يخليها دائرية */
+    object-fit: cover;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+/* صورة قسم about */
+.about-img {
+    width: 350px;
+    max-width: 100%;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
